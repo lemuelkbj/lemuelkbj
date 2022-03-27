@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @lemuelkbj
-- 👀 I’m interested in Machine Learning, Data Science and Web Application Development
+- 👀 I’m interested in Web Application Development
 - 🌱 I’m currently learning React.js
 - 💞️ I’m looking to collaborate on Full Stack Web Application Development
 - 📫 How to reach me lemuelkbj@gmail.com
